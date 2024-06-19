@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727487023580",
+    "project_id": "imageuploadretrive-6844e",
+    "storage_bucket": "imageuploadretrive-6844e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727487023580:android:9932093e485e3d93fbe719",
+        "android_client_info": {
+          "package_name": "com.example.imageuploadretrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvE4TyL-E6IjOdlLITy2-q2P14snLCoZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
